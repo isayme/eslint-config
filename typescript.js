@@ -8,4 +8,7 @@ module.exports = {
     "plugin:prettier/recommended",
     "prettier/standard",
   ],
+  env: {
+    node: true,
+  },
 };

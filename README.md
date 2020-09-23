@@ -6,11 +6,24 @@ ESLint 支持 [共享配置](https://eslint.org/docs/developer-guide/shareable-c
 
 ## Typescript
 
+安装依赖:
+
+```
+npm i --save-dev eslint \
+  typescript \
+  @typescript-eslint/parser \
+  @typescript-eslint/eslint-plugin \
+  prettier \
+  eslint-config-prettier \
+  eslint-plugin-prettier \
+```
+
 安装 `npm i --save-dev @isayme/eslint-config`
 
 ```
-// .eslintrc
+// 你的 .eslintrc
 {
-  "extends": "@isayme/eslint-config"
+  "root": true,
+  "extends": "@isayme"
 }
 ```

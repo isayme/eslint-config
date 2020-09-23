@@ -15,7 +15,7 @@ npm i --save-dev eslint \
   @typescript-eslint/eslint-plugin \
   prettier \
   eslint-config-prettier \
-  eslint-plugin-prettier \
+  eslint-plugin-prettier
 ```
 
 安装 `npm i --save-dev @isayme/eslint-config`

@@ -13,6 +13,6 @@ module.exports = {
     node: true,
   },
   rules: {
-    'space-before-function-paren': 0,
+    'space-before-function-paren': 1,
   },
 }

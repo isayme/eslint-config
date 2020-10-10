@@ -4,7 +4,7 @@ ESLint 支持 [共享配置](https://eslint.org/docs/developer-guide/shareable-c
 
 # 如何使用
 
-## Javascrip
+## Javascript
 
 安装依赖:
 

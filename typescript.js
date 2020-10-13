@@ -14,5 +14,6 @@ module.exports = {
   },
   rules: {
     'space-before-function-paren': 1,
+    '@typescript-eslint/no-explicit-any': 0,
   },
 }
